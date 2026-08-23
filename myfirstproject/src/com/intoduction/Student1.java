@@ -21,7 +21,7 @@ public class Student1 {
 		System.out.println("Student name :"+studentName);
 		System.out.println("Telegu Marks :"+teluguMarks);
 		System.out.println("English Marks :"+englishMarks);
-		System.out.println("Hinfi Marks :"+hindiMarks);
+		System.out.println("Hindi Marks :"+hindiMarks);
 		System.out.println("Social Marks :"+socialMarks);
 		System.out.println("Total Marks :"+totalMarks);
 		System.out.println("Percentage :"+percentage);
