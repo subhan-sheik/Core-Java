@@ -1,4 +1,5 @@
 package com.operators;
+//the relational operators are <,<=,>,>=,==,!=
 
 public class RelationalOperator {
 

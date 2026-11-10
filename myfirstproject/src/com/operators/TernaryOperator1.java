@@ -1,6 +1,7 @@
 package com.operators;
+//the ternary operators are ? and :
 
-public class TernaryOperator {
+public class TernaryOperator1 {
 
 	public static void main(String[] args) {
 		int a = 100;
