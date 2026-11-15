@@ -47,6 +47,7 @@ public class Calculator {
 		System.out.println("Do You Want To Continue..? Click  Y for Yes or N for No");
 		yn=sc.next();
 		} while(yn.equalsIgnoreCase("y"));
+		sc.close();
 	}
 
 }

@@ -36,5 +36,6 @@ public class SbiBank {
 		System.out.println("Enter The Deposit Amount Which You Want To Deposit :");
 		double depositAmount=sc.nextDouble();
 		b.deposit(depositAmount);
+		sc.close();
 	}
 }
